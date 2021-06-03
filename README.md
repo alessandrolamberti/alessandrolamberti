@@ -7,4 +7,4 @@
 - Always trying to learn new things here and there
 
 ## Stack
--Languages: ![](https://github.com/lamb-does-code/lamb-does-code/blob/main/assets/logos/pythonlogo.png)
+-Languages: 
