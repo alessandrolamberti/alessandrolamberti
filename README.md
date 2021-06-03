@@ -8,6 +8,4 @@
 
 ## Stack
 
-- Languages: <img src = 'https://github.com/lamb-does-code/lamb-does-code/blob/main/assets/logos/pythonlogo.png' width='30'/> 
-<img src = 'https://github.com/lamb-does-code/lamb-does-code/blob/main/assets/logos/clogo.svg' width='30'/> 
-<img src = 'https://github.com/lamb-does-code/lamb-does-code/blob/main/assets/logos/Matlab_Logo.png' width='30'/>
+- Languages: <img src = 'https://github.com/lamb-does-code/lamb-does-code/blob/main/assets/logos/pythonlogo.png' width='30'/> <img src = 'https://github.com/lamb-does-code/lamb-does-code/blob/main/assets/logos/clogo.svg' width='30'/> <img src = 'https://github.com/lamb-does-code/lamb-does-code/blob/main/assets/logos/Matlab_Logo.png' width='30'/>
