@@ -1,4 +1,4 @@
-![](https://media.giphy.com/media/vFGvNTwOWw4Ib4uPQz/giphy.gif)
+![](https://github.com/lamb-does-code/lamb-does-code/blob/main/assets/bg.png)
 <!--
 **lamb-does-code/lamb-does-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
