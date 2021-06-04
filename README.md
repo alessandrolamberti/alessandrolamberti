@@ -1,5 +1,6 @@
 ![](https://github.com/lamb-does-code/lamb-does-code/blob/main/assets/bg.png)
 
+[![](https://img.shields.io/badge/Gmail-alessandro.lamberti98@gmail.com-red)](mailto:alessandro.lamberti98@gmail.com)
 ## About me
 
 - Currently enrolled in Telecommunication Engineering at La Sapienza, Rome
