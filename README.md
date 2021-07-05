@@ -9,7 +9,7 @@
 
 ## Stack
 
-- Languages: <img src = 'https://github.com/lamb-does-code/lamb-does-code/blob/main/assets/logos/pythonlogo.png' width='30'/> <img src = 'https://github.com/lamb-does-code/lamb-does-code/blob/main/assets/logos/clogo.svg' width='30'/> <img src = 'https://github.com/lamb-does-code/lamb-does-code/blob/main/assets/logos/Matlab_Logo.png' width='30'/>
+- **Languages**: <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
 - Frameworks & tools: <img src = 'https://github.com/lamb-does-code/lamb-does-code/blob/main/assets/logos/pytorch.png' width='30'/> <img src = 'https://github.com/lamb-does-code/lamb-does-code/blob/main/assets/logos/tensorflow.png' width='27'/> <img src = 'https://github.com/lamb-does-code/lamb-does-code/blob/main/assets/logos/gitlogo.png' width='30'/> <img src = 'https://github.com/lamb-does-code/lamb-does-code/blob/main/assets/logos/vscodelogo.png' width='30'/>
 
 ## Contacts
