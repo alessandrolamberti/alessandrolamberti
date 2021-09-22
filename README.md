@@ -5,8 +5,7 @@
 
 - Currently enrolled in Telecommunication Engineering at La Sapienza, Rome
 - Always trying to learn new things here and there
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+- My website --> [alessandroai.com](https://www.alessandroai.com)
 
 
 
