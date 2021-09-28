@@ -1,43 +1,35 @@
 ![](https://github.com/lamb-does-code/lamb-does-code/blob/main/assets/bg.png)
 
-[![](https://img.shields.io/badge/Gmail-alessandro.lamberti98@gmail.com-red)](mailto:alessandro.lamberti98@gmail.com)
-## About me
+I'm a Data Scientist (weird to say out loud but here I am).
+I'm passionate about Computer Vision.
 
-- Currently enrolled in Telecommunication Engineering at La Sapienza, Rome
-- Always trying to learn new things here and there
-- My website --> [alessandroai.com](https://www.alessandroai.com)
+In my free time, I try to learn new things here and there.
+
+I write. My writing is available on [alessandroai.com](https://www.alessandroai.com) and on [Medium](https://alessandroai.medium.com/). I write about what I learn and what I live.
+
+Here's a list of my most viewed posts:
+
+* [Gentle Introduction to Computer Vision](https://medium.com/artificialis/gentle-introduction-to-computer-vision-1b9c001f938f)
+* [Your Path to Become a Machine Learning Engineer](https://medium.com/artificialis/your-path-to-become-a-machine-learning-engineer-679448166251)
+* [Guide to Object Detection](https://medium.com/artificialis/guide-to-object-detection-4b1931d829a3)
+* [Train Your Custom Object Detector](https://medium.com/artificialis/train-your-custom-object-detector-9d15767d885a)
+* [5 Tips For Your Data Science Career](https://medium.com/artificialis/5-tips-for-your-data-science-career-39ef64bbbd01)
+
+If I'm interested in something, you'll find me talking or writing about it.
+
+Currently working on world-wide projects at [IPS Intelligence](https://www.ips-intelligence.com/).
+
+In June 2021, I founded Artificialis, a community of Artificial Intelligence enthusiasts, practitioners, writers.
 
 
-
-### Stack
-__Programming Languages__
-
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp;
+[Our medium publication](https://medium.com/artificialis)
 
 
-__Frameworks and libraries__
+[Our Discord server](https://discord.gg/j5vM3nqZ76)
 
-<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />&nbsp; 
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />&nbsp;  
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />&nbsp; 
-<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp; 
-<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
-<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />&nbsp; 
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp; 
-<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
+You can find me here:
 
-__IDEs/Editors__
+* [alessandroai.com](https://www.alessandroai.com)
+* [Twitter](https://twitter.com/_alessandroai)
+* [Discord](https://discord.gg/j5vM3nqZ76)
 
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp; 
-<img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />&nbsp;
-
-__Other/Misc__
-
-<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp;
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp; 
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
-
-### Contacts
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alessandro-lamberti/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/alessandrolamberti_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/317347401839017985) 
