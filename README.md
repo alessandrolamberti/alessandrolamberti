@@ -1,5 +1,5 @@
 
-I'm a Data Scientist (weird to say out loud but here I am).
+I'm a Machine Learning engineer (weird to say out loud but here I am).
 I'm passionate about Computer Vision.
 
 In my free time, I try to learn new things here and there.
