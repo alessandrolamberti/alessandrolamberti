@@ -1,4 +1,3 @@
-![](https://github.com/lamb-does-code/lamb-does-code/blob/main/assets/bg.png)
 
 I'm a Data Scientist (weird to say out loud but here I am).
 I'm passionate about Computer Vision.
