@@ -8,11 +8,11 @@ I write. My writing is available on [alessandroai.com](https://www.alessandroai.
 
 Here's a list of my most viewed posts:
 
-* [Gentle Introduction to Computer Vision](https://medium.com/artificialis/gentle-introduction-to-computer-vision-1b9c001f938f)
-* [Your Path to Become a Machine Learning Engineer](https://medium.com/artificialis/your-path-to-become-a-machine-learning-engineer-679448166251)
-* [Guide to Object Detection](https://medium.com/artificialis/guide-to-object-detection-4b1931d829a3)
-* [Train Your Custom Object Detector](https://medium.com/artificialis/train-your-custom-object-detector-9d15767d885a)
-* [5 Tips For Your Data Science Career](https://medium.com/artificialis/5-tips-for-your-data-science-career-39ef64bbbd01)
+* [Gentle Introduction to Computer Vision](https://medium.com/artificialis/why-you-should-not-be-a-data-scientist-7a10543ed2d2)
+* [Build A Security Camera with Python and OpenCV](https://medium.com/artificialis/build-a-security-camera-with-python-and-opencv-83e69f676216)
+* [Introduction to MLOps](https://medium.com/artificialis/introduction-to-mlops-d616c6ba8669)
+* [12 Months Into My Data Science Journey](https://medium.com/artificialis/12-months-into-my-data-science-journey-a044ba056c84)
+* [Become a Machine Learning Engineer in 2022](https://medium.com/artificialis/become-a-machine-learning-engineer-in-2022-c377f2b5891b)
 
 If I'm interested in something, you'll find me talking or writing about it.
 
