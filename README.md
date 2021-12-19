@@ -8,7 +8,7 @@ I write. My writing is available on [alessandroai.com](https://www.alessandroai.
 
 Here's a list of my most viewed posts:
 
-* [Gentle Introduction to Computer Vision](https://medium.com/artificialis/why-you-should-not-be-a-data-scientist-7a10543ed2d2)
+* [Why You Should Not Be a Data Scientist](https://medium.com/artificialis/why-you-should-not-be-a-data-scientist-7a10543ed2d2)
 * [Build A Security Camera with Python and OpenCV](https://medium.com/artificialis/build-a-security-camera-with-python-and-opencv-83e69f676216)
 * [Introduction to MLOps](https://medium.com/artificialis/introduction-to-mlops-d616c6ba8669)
 * [12 Months Into My Data Science Journey](https://medium.com/artificialis/12-months-into-my-data-science-journey-a044ba056c84)
