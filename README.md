@@ -32,3 +32,5 @@ You can find me here:
 * [Twitter](https://twitter.com/_alessandroai)
 * [Discord](https://discord.gg/j5vM3nqZ76)
 
+![](https://activity-graph.herokuapp.com/graph?username=alessandrolamberti&theme=rogue&area=true&hide_border=true)
+
