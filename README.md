@@ -4,7 +4,7 @@ I'm passionate about Computer Vision.
 
 In my free time, I try to learn new things here and there.
 
-I write. My writing is available on [alessandroai.com](https://www.alessandroai.com) and on [Medium](https://alessandroai.medium.com/). I write about what I learn and what I live.
+I write. My writing is available on [Medium](https://alessandroai.medium.com/). I write about what I learn and what I live.
 
 Here's a list of my most viewed posts:
 
