@@ -1,3 +1,5 @@
+![](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
+
 # About me
 Data Scientist & Machine Learning Engineer, with a background in Telecommunication engineering.
 
@@ -35,11 +37,6 @@ You can also find me here [alessandroai.com](https://www.alessandroai.com)
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=alessandrolamberti&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrolamberti&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook)
-
-<details> <summary> 🏆GitHub Trophies </summary>
- 
-![](https://github-profile-trophy.vercel.app/?username=alessandrolamberti&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-</details>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alessandrolamberti&icon=0&color=0)](https://visitcount.itsvg.in)
