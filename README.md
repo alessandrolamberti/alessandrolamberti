@@ -1,11 +1,9 @@
 ![](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
 
 # About me
-Data Scientist & Machine Learning Engineer, with a background in Telecommunication engineering.
+Machine Learning & Computer Vision Engineer, with a background in Telecommunication engineering.
 
-Currently working on world-selling products.
-
-Building machine learning, deep learning & computer vision models for social media and open source intelligence, surveillance and maritime intelligence at [IPS S.p.A](https://www.ips-intelligence.com).
+Building machine learning, deep learning & computer vision models for social media and open source intelligence, surveillance and maritime intelligence
 
 On my spare time, I'm building [Hydra AI](https://rapidapi.com/alessandro.lamberti98/api/hydra-ai): a multi-feature machine learning API.
 
