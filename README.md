@@ -3,10 +3,6 @@
 # About me
 Machine Learning & Computer Vision Engineer, with a background in Telecommunication engineering.
 
-Building machine learning, deep learning & computer vision models for social media and open source intelligence, surveillance and maritime intelligence
-
-On my spare time, I'm building [Hydra AI](https://rapidapi.com/alessandro.lamberti98/api/hydra-ai): a multi-feature machine learning API.
-
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alessandro-lamberti) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alessandroai) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ffNAKmZnjT) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_artificialis) 
 
