@@ -30,4 +30,4 @@ You can also find me here [alessandroai.com](https://www.alessandroai.com)
 
 ---
 
-![][(https://visitcount.itsvg.in/api?id=alessandrolamberti&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=alessandrolamberti&icon=0&color=0)(https://visitcount.itsvg.in)
