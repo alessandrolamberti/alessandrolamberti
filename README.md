@@ -29,4 +29,5 @@ You can also find me here [alessandroai.com](https://www.alessandroai.com)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
 ---
-![](https://visitcount.itsvg.in/api?id=alessandrolamberti&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![][(https://visitcount.itsvg.in/api?id=alessandrolamberti&icon=0&color=0)](https://visitcount.itsvg.in)
