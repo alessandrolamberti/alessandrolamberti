@@ -28,9 +28,5 @@ You can also find me here [alessandroai.com](https://www.alessandroai.com)
 ### Other / MLOps
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=alessandrolamberti&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrolamberti&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=alessandrolamberti&icon=0&color=0)](https://visitcount.itsvg.in)
