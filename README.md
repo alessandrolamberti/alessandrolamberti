@@ -6,7 +6,7 @@ Machine Learning & Computer Vision Engineer, with a background in Telecommunicat
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alessandro-lamberti) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alessandroai) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ffNAKmZnjT) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_artificialis) 
 
-You can also find me here [alessandroai.com](https://www.alessandroai.com)
+You can also find me here [alessandrolamberti.com](https://www.alessandrolamberti.com)
 
 # 💻Tech Stack
 
